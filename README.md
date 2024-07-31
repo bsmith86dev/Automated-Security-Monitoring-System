@@ -22,7 +22,7 @@ look up the attackers Geolocation information and plot it on an Azure Sentinel M
 
 - <b>ipgeolocation.io:</b> IP Address to Geolocation API
 
-<h2>Attacks from China coming in; Custom logs being output with geodata</h2>
+<h2>Attacks coming in; Custom logs being output with geodata</h2>
 
 <p align="center">
 <img src="https://drive.google.com/file/d/1exC00SlyWXphTFWJJ4Ote9nRZ0ZMIyMU/view?usp=drive_link" height="85%" width="85%" alt="Image Analysis Dataflow"/>
